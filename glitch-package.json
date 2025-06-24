@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "GeeKTunes - Plataforma de música geek",
   "main": "server.js",
-  "type": "module",
+
   "scripts": {
     "start": "node server.js",
     "build": "echo 'Build completed'",
