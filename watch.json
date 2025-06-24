@@ -1,0 +1,10 @@
+{
+  "install": {
+    "include": ["^package\\.json$", "^package-lock\\.json$"]
+  },
+  "restart": {
+    "exclude": ["^public/", "^dist/", "^client/"],
+    "include": ["\\.js$", "\\.ts$", "\\.json$"]
+  },
+  "throttle": 900
+}

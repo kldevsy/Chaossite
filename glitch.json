@@ -1,0 +1,11 @@
+{
+  "name": "chaossite",
+  "description": "GeeKTunes - Plataforma de música geek",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
